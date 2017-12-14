@@ -1,5 +1,4 @@
 # gradleRIOatom
 
 
-Need to have installed npm modules
-specifically the "request" and "extend" modules for package to run.
+Need to have installed npm modules run npm install extend to get modules
