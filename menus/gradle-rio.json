@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle gradle-rio",
+        "command": "gradle-rio:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "gradle-rio",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "gradle-rio:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
